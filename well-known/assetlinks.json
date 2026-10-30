@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.osamabadry.wellskharga",
+        "sha256_cert_fingerprints": ["AF:45:26:30:FA:46:98:3E:C3:F5:33:D2:3D:9C:6C:39:2A:48:AD:A5:C4:D3:84:47:68:33:99:34:16:DE:C1:71"]
+      }
+    }]
